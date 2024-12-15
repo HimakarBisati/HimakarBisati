@@ -30,7 +30,6 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
   <img width="12" />
 </div>
 
-![Divider](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
 
 ---
 
@@ -44,6 +43,5 @@ Feel free to get in touch through any platform below:
 
 ---
 
-![Divider](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
 
 Looking forward to collaborating with you! 🚀
