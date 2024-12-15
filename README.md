@@ -1,11 +1,15 @@
-## **Python Full Stack Developer** - Himakar Bisati
+---
 
-Welcome to my profile!  
-I am Himakar, a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
+![Welcome](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/refs/heads/master/images/welcome.png)
+
+## **This is Himakar**
+
+### **Overview**
+I'm a **Python Full Stack Developer** with a passion for creating modern, scalable web applications. I love solving complex problems and turning ideas into reality using the latest technologies.
 
 ---
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Divider](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
 
 ### 🛠️ Tech Stack & Skills
 
@@ -26,7 +30,7 @@ I am Himakar, a **Python Full Stack Developer** with a passion for creating mode
   <img width="12" />
 </div>
 
-![Skills Divider](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
+![Divider](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
 
 ---
 
@@ -34,12 +38,12 @@ I am Himakar, a **Python Full Stack Developer** with a passion for creating mode
 
 Feel free to get in touch through any platform below:
 
-- Email: himakar1801@gmail.com
-- LinkedIn: [linkedin.com/in/himakar-bisati-0a8610335](https://www.linkedin.com/in/himakar-bisati-0a8610335/)
-- GitHub: [github.com/HimakarBisati](https://github.com/HimakarBisati)
+- **Email:** himakar1801@gmail.com  
+- **LinkedIn:** [linkedin.com/in/himakar-bisati-0a8610335](https://www.linkedin.com/in/himakar-bisati-0a8610335/)  
+- **GitHub:** [github.com/HimakarBisati](https://github.com/HimakarBisati)
 
 ---
 
-![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Divider](https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif)
 
 Looking forward to collaborating with you! 🚀
