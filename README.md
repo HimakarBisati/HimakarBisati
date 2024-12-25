@@ -38,7 +38,7 @@ I'm a **Python Full Stack Developer** with a passion for creating modern, scalab
 Feel free to get in touch through any platform below:
 
 - **Email:** himakar1801@gmail.com  
-- **LinkedIn:** [linkedin.com/in/himakar-bisati-0a8610335](https://www.linkedin.com/in/himakar-bisati-0a8610335/)  
+- **LinkedIn:** [linkedin.com/in/himakar-bisati/](https://www.linkedin.com/in/himakar-bisati/)  
 - **GitHub:** [github.com/HimakarBisati](https://github.com/HimakarBisati)
 
 ---
