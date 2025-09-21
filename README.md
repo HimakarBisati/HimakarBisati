@@ -3,18 +3,18 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>  
 
-- 🌱 Currently exploring **Django REST Framework, MySQL, and scalable backend design**  
+- 🌱 Skilled in **Python, Django, Django REST Framework (DRF), and MySQL**  
 - 💼 Completed a **2-month internship** as *Web Developer Intern* at **Prowork Solutions**  
-- 👨‍💻 Most of my projects are available on [**GitHub**](https://github.com/himakarbisati)  
+- 👨‍💻 Experienced in building **REST APIs, authentication workflows, and CRUD operations**  
+- ⚡ Passionate about **scalable backend systems** and solving real-world problems  
 - 📫 Reach me at **himakar1801@gmail.com**  
-- ⚡ Passionate about **building backend APIs and solving real-world problems**  
 
 ---
 
 ## 📩 Connect with me  
 <p align="center">
   <a href="mailto:himakar1801@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/himakar-bisati" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://himakarportfolio.vercel.app/" title="Portfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://github.com/himakarbisati" title="GitHub"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>  
 
@@ -25,7 +25,7 @@
 **Programming & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=white)  
-![Django REST](https://img.shields.io/badge/-Django%20REST-%23092E20?style=flat-square&logo=django&logoColor=white)  
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-%23092E20?style=flat-square&logo=django&logoColor=white)  
 
 **Databases & APIs**  
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)  
@@ -45,18 +45,8 @@
 
 ## 🚀 Projects  
 
-- **Backend API Management with Django**  
+- **[Backend API Management with Django](https://github.com/HimakarBisati/Backend-API-Management-with-Django)**  
   REST API for managing university data with CRUD operations, JWT authentication, and CORS support.  
-  🔗 [View on GitHub](https://github.com/himakarbisati)  
 
-- **Django ProjectFlow App**  
+- **[Django ProjectFlow App](https://github.com/HimakarBisati/Django-ProjectFlow-App)**  
   Project management system with authentication, tasks, notes, and file upload. Deployed to cloud.  
-  🔗 [View on GitHub](https://github.com/himakarbisati)  
-
----
-
-## 📊 GitHub Stats  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himakarbisati&theme=dark" alt="himakarbisati" /></p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himakarbisati&show_icons=true&theme=dark" alt="himakarbisati" /></p>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himakarbisati&show_icons=true&layout=compact&theme=dark" alt="himakarbisati" /></p>  
